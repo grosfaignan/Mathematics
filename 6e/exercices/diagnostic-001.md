@@ -8,24 +8,25 @@
 
 Effectue les calculs suivants sans calculatrice :
 
-1. $27 + 35$
-2. $84 - 29$
-3. $7 \times 8$
-4. $72 \div 9$
+1. $27 + 35 = 62$
+2. $84 - 29 = 55$
+3. $7 \times 8 = 56$
+4. $72 \div 9 = 8$
 
 ## Exercice 2 — Priorités de calcul (3 points)
 
 Calcule :
 
-1. $8 + 3 \times 5$
-2. $(8 + 3) \times 5$
-3. $30 - 12 \div 3$
+1. $8 + 3 \times 5 = 8+(3 \times 5)= 23 $
+2. $(8 + 3) \times 5 = 55 $
+3. $30 - 12 \div 3 = 18 \div 3= 6$
 
 ## Exercice 3 — Problème (3 points)
 
 Une bibliothèque possède 125 livres. Elle reçoit 37 nouveaux livres, puis en prête 48.
 
 **Combien de livres restent dans la bibliothèque ?**
+125+37-48= 162-48 = 114
 
 ### Consignes de réponse
 
