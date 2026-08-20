@@ -1,58 +1,74 @@
 # Diagnostic 004 — Géométrie et grandeurs
 
-**Objectif :** évaluer les bases de géométrie, les unités de mesure et les calculs de périmètre/aire.
+**Note finale : 8,5/10 (85 %)**
 
-**Barème : 10 points**
+## Exercice 1 — Vocabulaire géométrique
 
-## Exercice 1 — Vocabulaire géométrique (2 points)
+1. Diamètre — **1/1**
+2. Rayon — **1/1**
 
-1. Comment appelle-t-on un segment qui relie deux points d'un cercle en passant par son centre ?
+**Score : 2/2**
 
-le diamètre
+## Exercice 2 — Longueurs et conversions
 
-2. Comment appelle-t-on la distance entre le centre d'un cercle et un point du cercle ?
+1. $2,5\ m=250\ cm$ — **1/1**
+2. $350\ cm=3,5\ m$ — **1/1**
+3. $1,2\ km=1200\ m$ — **1/1**
 
-le rayon
+**Score : 3/3**
 
-## Exercice 2 — Longueurs et conversions (3 points)
+Les trois conversions sont correctes. Les facteurs de conversion n'ont pas été détaillés, mais les résultats montrent que la conversion de longueurs est maîtrisée.
 
-1. Convertis : $2,5\ m = \ldots\ 250cm$
-2. Convertis : $350\ cm = \ldots\ 3,5m$
-3. Convertis : $1,2\ km = \ldots\ 1200m$
+## Exercice 3 — Périmètre
 
-Écris les étapes ou indique clairement le facteur de conversion utilisé.
+$8\times2+5\times2=26\ cm$ — **1/1**
 
-## Exercice 3 — Périmètre (2 points)
+Formule attendue : $P=2\times(L+l)$ — **0,5/1**
 
-Un rectangle mesure 8 cm de longueur et 5 cm de largeur.
+Ton calcul est correct et constitue une forme développée de la formule. La formule générale n'a simplement pas été écrite explicitement.
 
-1. Calcule son périmètre.
-$ 8*2 + 5*2 = 16+10=26$
-2. Écris la formule que tu utilises.
+**Score : 1,5/2**
 
-## Exercice 4 — Aire (2 points)
+## Exercice 4 — Aire
 
-Le même rectangle mesure 8 cm de longueur et 5 cm de largeur.
+$5\times8=40\ cm^2$ — **2/2**
 
-1. Calcule son aire.
-$5*8=40$
-2. Donne l'unité adaptée au résultat.
-cm^2
-## Exercice 5 — Raisonnement géométrique (1 point)
+## Exercice 5 — Raisonnement géométrique
 
-Un carré possède un périmètre de 36 cm.
+Tu as répondu : $\sqrt{36}=6\ cm$ — **0/1**
 
-Quelle est la longueur d'un côté ?
-√36=6cm
+Le périmètre d'un carré vaut quatre fois la longueur de son côté :
 
+$36\div4=9\ cm$.
 
- Explique ton raisonnement.
+Tu as utilisé la racine carrée comme si 36 représentait une aire. Ici, 36 représente un périmètre. Il s'agit donc d'une confusion entre deux grandeurs, et non d'une difficulté de calcul.
 
-## Consignes
+## Bilan
 
-- Pas de calculatrice.
-- Utilise les unités dans tes réponses.
-- Écris les formules utilisées lorsque la question le demande.
-- L'objectif est d'évaluer ton raisonnement : laisse donc les étapes visibles.
+### Points maîtrisés
 
-**Note :** à compléter après correction.
+- Vocabulaire du cercle.
+- Conversions de longueurs.
+- Périmètre d'un rectangle.
+- Aire d'un rectangle et unité adaptée.
+
+### Point à travailler
+
+**Distinguer périmètre et aire et sélectionner la relation mathématique correspondant à la grandeur donnée.**
+
+Nous allons retester ce point avant d'envisager un cours.
+
+### Observation méthodologique
+
+Tu écris souvent des opérations très courtes. Pour la suite, nous renforcerons progressivement la rédaction : donnée → formule → remplacement → résultat → unité.
+
+### Bilan des diagnostics
+
+| Diagnostic | Note | Observation |
+|---|---:|---|
+| 001 — Nombres et calculs | 9/10 | Erreur d'interprétation de notation |
+| 002 — Priorités opératoires | 9,5/10 | Priorités maîtrisées |
+| 003 — Fractions, décimaux, proportionnalité | 9,5/10 | Notions maîtrisées |
+| 004 — Géométrie et grandeurs | 8,5/10 | Confusion ponctuelle périmètre/aire |
+
+**Moyenne actuelle : 9,125/10 (91,25 %).**
