@@ -9,14 +9,18 @@
 Pour chaque question, indique si on cherche un **périmètre** ou une **aire**.
 
 1. Quelle longueur de clôture faut-il pour entourer un jardin rectangulaire ?
+périmètre 
 2. Quelle surface de peinture faut-il pour recouvrir un mur ?
+aire
 
 ## Exercice 2 — Rectangle (3 points)
 
 Un rectangle mesure 12 cm de longueur et 7 cm de largeur.
 
 1. Calcule son périmètre.
+12*2+7*2=24+14=36cm
 2. Calcule son aire.
+12*7=84cm^2
 3. Donne l'unité de chacun des deux résultats.
 
 ## Exercice 3 — Carré (3 points)
@@ -24,15 +28,20 @@ Un rectangle mesure 12 cm de longueur et 7 cm de largeur.
 Un carré possède une aire de 49 cm².
 
 1. Quelle est la longueur de son côté ?
+√49=7cm
 2. Calcule son périmètre.
+7*4=28cm
 3. Explique pourquoi la racine carrée est pertinente dans cette question.
+parce que nous effectuons nos calculs en partant de l'aire
 
 ## Exercice 4 — Attention à la donnée (2 points)
 
 Un carré a un périmètre de 28 cm.
 
 1. Quelle est la longueur d'un côté ?
+7cm
 2. Calcule son aire.
+49cm^2
 
 ## Consignes
 
