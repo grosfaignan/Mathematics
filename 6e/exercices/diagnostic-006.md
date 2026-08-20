@@ -24,12 +24,12 @@
 Deux droites se coupent et l'un des quatre angles mesure 70°.
 
 1. L'angle opposé par le sommet mesure **70°** — **1/1**
-2. Les deux angles adjacents sont **supplémentaires**, pas égaux — **0/1**
+2. Les deux angles adjacents à l'angle de 70° sont **égaux entre eux** — **1/1**
 3. Ils mesurent chacun $180-70=110°$ — **1/1**
 
-**Score : 2/3**
+**Score : 3/3**
 
-L'erreur est donc uniquement dans la propriété énoncée : les angles adjacents à 70° sont égaux entre eux dans cette configuration, mais chacun est supplémentaire de l'angle de 70°. Ils mesurent donc 110°.
+> Correction importante : ta réponse « ils sont égaux » était correcte. Les deux angles adjacents sont égaux entre eux, et chacun est supplémentaire de l'angle de 70°.
 
 ## Exercice 4 — Raisonnement (2 points)
 
@@ -44,21 +44,25 @@ Tu as répondu 90°, ce qui correspond à la somme d'un angle et de son complém
 
 ## Correction et bilan
 
-**Note finale : 8/10 (80 %)**
+**Note finale : 9/10 (90 %)**
 
 ### Points maîtrisés
 
 - Vocabulaire de base des angles.
 - Angle droit, aigu et plat.
 - Complémentaires.
-- Calcul de l'angle opposé par le sommet.
+- Angles opposés par le sommet.
+- Angles adjacents dans une configuration de droites sécantes.
 - Calcul des angles supplémentaires dans une configuration de droites sécantes.
 
-### Point à travailler
+### Point à retester
 
-La notion de **complémentaire / supplémentaire** est globalement comprise, mais la dernière question montre une confusion ponctuelle : le complémentaire complète jusqu'à 90°, tandis que le supplémentaire complète jusqu'à 180°.
+La distinction **complémentaire / supplémentaire** est presque maîtrisée, mais la dernière question montre une confusion ponctuelle :
 
-Nous allons retester cette distinction dans un exercice court avant d'envisager un cours.
+- complémentaire → somme de $90°$ ;
+- supplémentaire → somme de $180°$.
+
+Nous allons donc retester spécifiquement cette distinction avant d'envisager un cours.
 
 ### Bilan des diagnostics
 
@@ -69,6 +73,6 @@ Nous allons retester cette distinction dans un exercice court avant d'envisager 
 | 003 — Fractions, décimaux, proportionnalité | 9,5/10 | Notions maîtrisées |
 | 004 — Géométrie et grandeurs | 8,5/10 | Erreur ponctuelle périmètre/aire |
 | 005 — Périmètre ou aire ? | 10/10 | Distinction maîtrisée |
-| 006 — Angles | 8/10 | Complémentaire/supplémentaire à retester |
+| 006 — Angles | 9/10 | Complémentaire/supplémentaire à retester |
 
-**Moyenne actuelle : 9,08/10 (90,8 %).**
+**Moyenne actuelle : 9,25/10 (92,5 %).**
