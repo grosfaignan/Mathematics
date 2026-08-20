@@ -11,67 +11,83 @@
    - $\frac{3}{4}$
    - $\frac{2}{3}$
 
-$$$
-mise au même dénominateur commun
-\frac{3*3}{4*3} > \frac{2*4}{3*4} = \frac{9}{12} > \frac{8}{12}
-$$$
+Tu les as mises au même dénominateur :
 
+$\frac{3}{4}=\frac{9}{12}$ et $\frac{2}{3}=\frac{8}{12}$, donc $\frac{3}{4}>\frac{2}{3}$.
 
-2. Calcule :
+**1/1**
 
-   $\frac{1}{4}+\frac{2}{4}=\frac{3}{4}$
+2. $\frac{1}{4}+\frac{2}{4}=\frac{3}{4}$
 
-3. Une tablette de chocolat est divisée en 8 parts égales. Tu manges 3 parts.
+**1/1**
 
-   Quelle fraction de la tablette as-tu mangée ?
-$\frac{3}{8}$
- 
-Quelle fraction reste-t-il ?
-$\frac{5}{8}$
+3. $\frac{3}{8}$ mangée et $\frac{5}{8}$ restante.
+
+**1/1**
+
+**Score : 3/3**
 
 ## Exercice 2 — Nombres décimaux (3 points)
 
-1. Compare avec $<$, $>$ ou $=$ :
+1. $3,7 > 3,65$ — **1/1**
+2. $0,8 = 0,80$ — **1/1**
+3. $12,5 + 3,75 = 16,25$ — **1/1**
 
-   $3,7 \; > \; 3,65$
-
-2. Compare :
-
-   $0,8 \; = \; 0,80$
-
-3. Effectue :
-
-   $12,5 + 3,75 = 16,25 $
+**Score : 3/3**
 
 ## Exercice 3 — Passage fraction / décimal (2 points)
 
-1. Écris sous forme décimale :
+1. $\frac{1}{2}=0,5$ — **0,75/1**
 
-   $\frac{1}{2} =0.5$
+Le résultat est correct. Ton explication « divisé 1*2 » semble vouloir dire que tu as effectué $1\div2$. C'est bien l'opération permettant de transformer la fraction en nombre décimal, mais elle doit être écrite explicitement :
 
-2. Écris sous forme de fraction décimale :
+$1\div2=0,5$.
 
-   $0,7 = \frac{7}{10}$
+2. $0,7=\frac{7}{10}$ — **0,75/1**
 
-3. Explique brièvement comment tu as trouvé tes réponses.
-1) j'ais divisé 1*2
-2) j'ais multiplier 0,7*10
+Le résultat est correct. Multiplier $0,7$ par 10 permet effectivement de constater qu'il y a 7 dixièmes, mais la méthode peut être formulée plus directement : $0,7$ signifie « 7 dixièmes », donc $0,7=\frac{7}{10}$.
+
+**Score : 1,5/2**
 
 ## Exercice 4 — Proportionnalité simple (2 points)
 
-Une place de cinéma coûte 8 €.
+1. $2\times8=16$ € — **0,5/0,5**
+2. $5\times8=40$ € — **0,5/0,5**
+3. $5\times8$ — **1/1**
 
-1. Combien coûtent 2 places ?
-2*8=16€
-2. Combien coûtent 5 places ?
-5*8=40€
-3. Explique comment tu peux calculer le prix de 5 places sans refaire cinq fois l'addition.
-5*8
-## Consignes
+La méthode est correcte : le prix total est proportionnel au nombre de places.
 
-- Pas de calculatrice.
-- Écris ton raisonnement, pas uniquement les résultats.
-- Pour les comparaisons, explique lorsque cela permet de montrer ta méthode.
-- Ne cherche pas à deviner ce qui est attendu : utilise la méthode qui te paraît naturelle.
+**Score : 2/2**
 
-**Note :** à compléter après correction.
+## Correction et bilan
+
+**Note finale : 9,5/10 (95 %)**
+
+### Points maîtrisés
+
+- Comparaison de fractions par réduction au même dénominateur.
+- Addition de fractions de même dénominateur.
+- Interprétation d'une fraction comme partie d'un tout.
+- Comparaison et addition de nombres décimaux.
+- Passage simple fraction ↔ nombre décimal.
+- Proportionnalité élémentaire.
+
+### Point à améliorer
+
+Le seul point réellement perfectible concerne la **formulation du raisonnement** lors du passage fraction ↔ décimal. Les résultats sont justes, mais les explications sont trop raccourcies.
+
+Ce n'est pas une lacune mathématique importante à ce stade. Nous vérifierons simplement que tu sais formaliser correctement la méthode dans des exercices ultérieurs.
+
+### Bilan du diagnostic initial
+
+Les trois premiers diagnostics donnent :
+
+| Diagnostic | Note | Observation |
+|---|---:|---|
+| 001 — Nombres et calculs | 9/10 | Une erreur d'interprétation de notation, non une lacune confirmée |
+| 002 — Priorités opératoires | 9,5/10 | Priorités maîtrisées ; modélisation d'un problème à surveiller |
+| 003 — Fractions, décimaux, proportionnalité | 9,5/10 | Notions maîtrisées ; formalisation à améliorer |
+
+**Moyenne des diagnostics : 9,33/10 (93,3 %).**
+
+À ce stade, aucune lacune importante de niveau 6e n'est établie. Le diagnostic doit donc continuer sur d'autres domaines avant de passer à une remédiation ou à un contrôle de validation.
