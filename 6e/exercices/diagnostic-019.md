@@ -1,44 +1,50 @@
 # Diagnostic 019 — Proportionnalité et pourcentages simples
 
-**Objectif :** vérifier la reconnaissance et l'utilisation de situations de proportionnalité simples.
+**Note finale : 9,5/10 (95 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Tableau de proportionnalité (3 points)
-
-Un carnet coûte 4 €. Complète :
+### Exercice 1 — Tableau de proportionnalité (3/3)
 
 | Nombre de carnets | 1 | 2 | 5 | 10 |
 |---|---:|---:|---:|---:|
 | Prix (€) | 4 | 8 | 20 | 40 |
 
-## Exercice 2 — Passage à l'unité (2 points)
+Chaque prix est obtenu en multipliant le nombre de carnets par 4. — **3/3**
 
-6 bouteilles coûtent 9 €.
+### Exercice 2 — Passage à l'unité (2/2)
 
-1. Quel est le prix d'une bouteille ?
-9/6=1,5€
-2. Combien coûtent 10 bouteilles au même prix unitaire ?
-15€
-## Exercice 3 — Pourcentage simple (3 points)
+1. $9\div6=1,5\ €$ — **1/1**
+2. $1,5\times10=15\ €$ — **1/1**
 
-Dans une classe de 30 élèves, 20 % des élèves sont absents.
+### Exercice 3 — Pourcentage simple (3/3)
 
-1. Quelle fraction de la classe représente 20 % ?
-20/100
-2. Combien d'élèves sont absents ?
-30*0,2=6
+1. $20\%=\frac{20}{100}=\frac15$ — **1/1**
+2. $30\times0,20=6$ — **1/1**
+3. $30-6=24$ — **1/1**
 
-3. Combien d'élèves sont présents ?
-30-6=24
+La fraction $20/100$ est correcte comme écriture du pourcentage. Elle pouvait être simplifiée en $1/5$, mais la simplification n'était pas explicitement demandée.
 
-## Exercice 4 — Reconnaître une situation non proportionnelle (2 points)
+### Exercice 4 — Situation non proportionnelle (1,5/2)
 
-Une piscine facture 5 € l'entrée, puis 2 € supplémentaires pour la location d'un casier, quel que soit le nombre de personnes.
+La conclusion **« non »** est correcte.
 
-Le prix total est-il proportionnel au nombre de personnes ? Justifie brièvement.
-non le prix a l'unité est fixe
+La justification donnée — « le prix à l'unité est fixe » — n'est en revanche pas la bonne justification : dans une situation proportionnelle, le prix unitaire est justement constant.
 
-**Consignes :** pas de calculatrice. Rédige les calculs nécessaires et indique les unités.
+Le problème vient du coût fixe du casier : si le nombre de personnes est $n$, le prix total est de la forme $5n+2$. Le terme fixe $2$ € empêche la proportionnalité.
 
-**Note :** à compléter après correction.
+**1,5/2**.
+
+## Bilan pédagogique
+
+### Note : 9,5/10
+
+La proportionnalité et les pourcentages simples sont très bien maîtrisés.
+
+La seule difficulté concerne la **justification d'une situation non proportionnelle** : il faut distinguer un coefficient de proportionnalité constant d'un coût fixe ajouté au résultat.
+
+Ce point mérite d'être vérifié par un exercice court, mais ne constitue pas pour l'instant une lacune conceptuelle avérée.
+
+**Moyenne des diagnostics : 9,13/10 (91,3 %).**
+
+Prochaine étape : poursuivre les derniers domaines de 6e, avec éventuellement une vérification ciblée de la justification de la non-proportionnalité.
