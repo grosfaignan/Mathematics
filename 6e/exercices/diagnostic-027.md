@@ -1,41 +1,42 @@
 # Diagnostic 027 — Calcul littéral et priorités de calcul
 
-**Objectif :** vérifier les priorités opératoires et les premières expressions avec une lettre.
+**Note finale : 10/10 (100 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Priorités opératoires (4 points)
+### Exercice 1 — Priorités opératoires (4/4)
 
-Calcule en respectant les priorités :
+1. $7+3\times4=29$ — **1/1**
+2. $(7+3)\times4=40$ — **1/1**
+3. $20-12\div3=16$ — **1/1**
+4. $18\div(2+1)=6$ — **1/1**
 
-1. $7+3\times4=29$
-2. $(7+3)\times4=40$
-3. $20-12\div3=16$
-4. $18\div(2+1)=6$
+Les priorités opératoires et le rôle des parenthèses sont maîtrisés.
 
-## Exercice 2 — Expressions avec une lettre (3 points)
+### Exercice 2 — Expressions avec une lettre (3/3)
 
-On considère :
+Pour $A=3x+5$ :
 
-$A=3x+5$
+1. $x=2$ → $A=3\times2+5=11$ — **1/1**
+2. $x=5$ → $A=3\times5+5=20$ — **1/1**
+3. $x=10$ → $A=3\times10+5=35$ — **1/1**
 
-Calcule $A$ pour :
+### Exercice 3 — Traduction (3/3)
 
-1. $x=2 a=6+5=11$
-2. $x=5 a=15+5=20$
-3. $x=10 a=30+5=35$
+1. Double de $x$ augmenté de 3 → $2x+3$ — **1/1**
+2. Somme de $x$ et 7, multipliée par 2 → $2(x+7)$ — **1/1**
+3. Triple de $x$ diminué de 4 → $3x-4$ — **1/1**
 
-## Exercice 3 — Traduction (3 points)
+Ton écriture $(x+7)*2$ est mathématiquement équivalente à $2(x+7)$.
 
-Écris sous forme d'expression mathématique :
+## Bilan pédagogique
 
-1. Le double d'un nombre $x$ augmenté de 3.
-2x+3
-2. La somme d'un nombre $x$ et de 7, multipliée par 2.
-(x+7)*2
-3. Le triple d'un nombre $x$ diminué de 4.
-3x-4
+### Note : 10/10
 
-**Consignes :** pas de calculatrice. Détaille les calculs lorsque nécessaire.
+Les priorités opératoires et les premières expressions littérales sont maîtrisées.
 
-**Note :** à compléter après correction.
+Aucune lacune identifiée sur ce domaine.
+
+**Moyenne des diagnostics : 9,25/10 (92,5 %).**
+
+Prochaine étape : poursuivre les derniers domaines de 6e avant le contrôle global de validation.
