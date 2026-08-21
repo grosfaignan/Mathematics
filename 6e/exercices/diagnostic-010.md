@@ -1,55 +1,75 @@
 # Diagnostic 010 — Fractions, partage et nombres
 
-**Objectif :** vérifier la compréhension des fractions comme nombres et comme parts d'un tout.
+**Note finale : 8,5/10 (85 %)**
 
-**Barème : 10 points**
+## Exercice 1 — Lire une fraction (2/2)
 
-## Exercice 1 — Lire une fraction (2 points)
+1. Dans $\frac{3}{5}$, 3 est le **numérateur** — **1/1**
+2. 5 est le **dénominateur** — **1/1**
 
-Dans la fraction $\frac{3}{5}$ :
+## Exercice 2 — Fraction d'une quantité (3/3)
 
-1. Comment s'appelle le nombre 3 ?
-le numerateur 
-2. Comment s'appelle le nombre 5 ?
-le dénominateur 
+$30\times\frac{2}{5}=\frac{30\times2}{5}=\frac{60}{5}=12$ — **3/3**
 
-## Exercice 2 — Fraction d'une quantité (3 points)
+Le raisonnement est correct. Il faut simplement éviter d'écrire $60/5=60$ : le résultat final est bien **12**.
 
-Une classe compte 30 élèves. Les $\frac{2}{5}$ des élèves participent à une activité.
+## Exercice 3 — Comparer des fractions (2/2)
 
-Combien d'élèves participent ?
+1. $\frac34>\frac24$ — **1/1**
 
-$ 30 \times \frac{2}{5} = \frac{30 \times 2}{5} =\frac{60}{5}=60/5=12 $
+Même dénominateur : on compare les numérateurs, et $3>2$.
 
-Écris ton raisonnement.
+2. $\frac35>\frac37$ — **1/1**
 
-## Exercice 3 — Comparer des fractions (2 points)
+Ta mise au même dénominateur est correcte :
 
-Sans calculatrice, compare :
+$\frac35=\frac{21}{35}$ et $\frac37=\frac{15}{35}$, donc $\frac35>\frac37$.
 
-1. $\frac{3}{4}$ et $\frac{2}{4}$
-$\frac{3}{4}$ > $\frac{2}{4}$ meme dénominateur, au numerateur 3>2
-2. $\frac{3}{5}$ et $\frac{3}{7}$
-$\frac{3*7}{5*7}$ >$\frac{3*5}{7*5}$
-après mise au même dénominateur commun 3*7>3*5
+## Exercice 4 — Fractions équivalentes (1/1)
 
-Utilise $<$, $>$ ou $=$ et explique au moins une réponse.
+$\frac12=\frac48$ — **1/1**
 
-## Exercice 4 — Fractions équivalentes (1 point)
+## Exercice 5 — Problème (0,5/2)
 
-Complète :
+1. Paul et Léa ont mangé $\frac{3+2}{8}=\frac58$ — **0,5/1**
 
-$\frac{1}{2}=\frac{4}{8}$
+L'expression est correcte, mais elle n'a pas été simplifiée jusqu'au résultat final.
 
-## Exercice 5 — Problème (2 points)
+2. Il reste $1-\frac58=\frac38$ — **0/1**
 
-Une tablette de chocolat est partagée en 8 parts égales. Paul mange 3 parts et Léa mange 2 parts.
+Tu as donné $\frac38$, qui est bien le bon résultat, mais sans montrer le raisonnement. Comme la consigne demandait les étapes, ce point n'est pas entièrement validé.
 
-1. Quelle fraction de la tablette ont-ils mangée ensemble ?
-$\frac{3+2}{8}$
-2. Quelle fraction reste-t-il ?
-$\frac{3}{8}$
+## Bilan pédagogique
 
-**Consignes :** pas de calculatrice. Écris les étapes de raisonnement.
+### Note : 8,5/10
 
-**Note :** à compléter après correction.
+Les notions fondamentales sur les fractions sont globalement maîtrisées :
+
+- numérateur et dénominateur ;
+- fraction d'une quantité ;
+- comparaison de fractions ;
+- fractions équivalentes.
+
+Le point à travailler n'est pas la compréhension des fractions, mais surtout la **rédaction complète d'un raisonnement et la simplification/conclusion d'un calcul**.
+
+On retrouve ici une tendance déjà observée : le résultat ou l'idée mathématique est souvent correct, mais certaines étapes sont laissées implicites.
+
+### Bilan des diagnostics
+
+| Diagnostic | Note | Observation |
+|---|---:|---|
+| 001 — Nombres et calculs | 9/10 | Erreur ponctuelle d'interprétation de notation |
+| 002 — Priorités opératoires | 9,5/10 | Priorités maîtrisées |
+| 003 — Fractions, décimaux, proportionnalité | 9,5/10 | Notions maîtrisées |
+| 004 — Géométrie et grandeurs | 8,5/10 | Erreur ponctuelle périmètre/aire |
+| 005 — Périmètre ou aire ? | 10/10 | Distinction maîtrisée |
+| 006 — Angles | 9/10 | Erreur ponctuelle complémentaire/supplémentaire |
+| 007 — Complémentaire ou supplémentaire ? | 10/10 | Distinction validée |
+| 008 — Données, tableaux et problèmes | 9,5/10 | Compétences maîtrisées ; calculs élémentaires à surveiller |
+| 009 — Solides, volumes et unités | 7,5/10 | Vocabulaire identifié comme lacune, puis remédié |
+| Validation 001 — Vocabulaire des solides | 10/10 | Lacune comblée et validée |
+| 010 — Fractions, partage et nombres | 8,5/10 | Notions maîtrisées ; rédaction à renforcer |
+
+**Moyenne des diagnostics : 9,10/10 (91,0 %).**
+
+Aucune nouvelle lacune conceptuelle n'est identifiée. Le prochain diagnostic continuera à explorer les compétences de 6e, avec une attention particulière à la rédaction des raisonnements.
