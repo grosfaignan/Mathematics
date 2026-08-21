@@ -1,38 +1,57 @@
 # Validation 002 — Opérations et priorités
 
-**Objectif :** vérifier que les erreurs du Diagnostic 013 étaient ponctuelles et que les calculs élémentaires sont maîtrisés.
+**Note finale : 9/10 (90 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Multiplications et divisions (4 points)
+### Exercice 1 — Multiplications et divisions (3/4)
 
-Calcule :
+1. $3\times4=12$ — **1/1**
+2. $24\div6=4$ — **1/1**
+3. $7\times5=35$ — **1/1**
+4. $36\div4=9$ — **0/1**
 
-1. $3\times4 = 12 $
-2. $24\div6 = 4$
-3. $7\times5 = 35 $
-4. $36\div4 = 36$
+Une erreur isolée sur une division simple. La compétence reste globalement maîtrisée.
 
-## Exercice 2 — Priorités opératoires (4 points)
+### Exercice 2 — Priorités opératoires (4/4)
 
-Calcule en respectant les priorités :
+1. $7+3\times4=7+12=19$ — **1/1**
+2. $20-12\div3=20-4=16$ — **1/1**
+3. $(8+2)\times5=10\times5=50$ — **1/1**
+4. $30\div(2+3)=30\div5=6$ — **1/1**
 
-1. $7+3\times4 7+12=19$
-2. $20-12\div3 20-4=16$
-3. $(8+2)\times5 10*5=50$
-4. $30\div(2+3) 30/5=6$
+Les priorités opératoires sont correctement appliquées.
 
-## Exercice 3 — Vérification (2 points)
+### Exercice 3 — Vérification (2/2)
 
-Un élève affirme :
+1. Le résultat 20 est incorrect — **1/1**
+2. $6+4\times2=6+8=14$ — **1/1**
 
-> $6+4\times2=20$
+La multiplication est effectuée avant l'addition.
 
-1. Son résultat est-il correct ?
-non, 
-2. Corrige le calcul et explique brièvement ton raisonnement.
-6+4*2=6+8=14
+## Bilan pédagogique
 
-**Consignes :** pas de calculatrice. Écris les étapes lorsque cela est nécessaire.
+### Note : 9/10
 
-**Note :** à compléter après correction.
+Le test confirme que les erreurs du Diagnostic 013 étaient principalement des erreurs d'exécution ponctuelles :
+
+- les multiplications sont maîtrisées ;
+- les priorités opératoires sont maîtrisées ;
+- la vérification d'un calcul est correctement réalisée.
+
+Une erreur subsiste sur $36\div4$, mais elle est isolée et ne justifie pas une remédiation complète.
+
+La compétence est donc considérée comme **validée**, avec une surveillance normale de la précision des calculs.
+
+### Mise à jour du bilan
+
+| Diagnostic / validation | Note | Observation |
+|---|---:|---|
+| 013 — Calcul littéral et égalités | 7/10 | Calculs à revalider ; algèbre élémentaire maîtrisée |
+| Validation 002 — Opérations et priorités | 9/10 | Compétence validée ; une erreur isolée de division |
+
+**Moyenne des diagnostics : 9,03/10 (90,3 %).**
+
+**Validation de la compétence : réussie.**
+
+Prochaine étape : reprendre le diagnostic général de 6e sur les domaines restant à explorer.
