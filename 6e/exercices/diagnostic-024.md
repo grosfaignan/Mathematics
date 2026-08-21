@@ -1,51 +1,45 @@
 # Diagnostic 024 — Solides et volumes
 
-**Objectif :** vérifier les connaissances de 6e sur les solides usuels et les volumes.
+**Note finale : 9,5/10 (95 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Reconnaître les solides (3 points)
+### Exercice 1 — Reconnaître les solides (3/3)
 
-Associe chaque description au solide correspondant :
+1. 6 faces carrées identiques → **cube** — **1/1**
+2. 6 faces rectangulaires, faces opposées identiques → **pavé droit** — **1/1**
+3. Deux bases circulaires parallèles et surface latérale courbe → **cylindre** — **1/1**
 
-1. Un solide possédant 6 faces carrées identiques.
-cube
-2. Un solide possédant 6 faces rectangulaires, dont les faces opposées sont identiques.
-pavé droit 
-3. Un solide possédant deux bases circulaires parallèles et une surface latérale courbe.
-cylindre
+### Exercice 2 — Volume d'un pavé droit (3/3)
 
-Choisis parmi : **cube, pavé droit, cylindre**.
+$V=L\times l\times H$
 
-## Exercice 2 — Volume d'un pavé droit (3 points)
+$V=8\times5\times3=120\ cm^3$
 
-Un pavé droit mesure 8 cm de longueur, 5 cm de largeur et 3 cm de hauteur.
+Formule, calcul et unité corrects — **3/3**.
 
-1. Calcule son volume.
-5*8*3=120cm^3
-2. Donne la formule utilisée.
-L*l*H
-3. Donne le résultat avec son unité
-120cm^3
+### Exercice 3 — Unités de volume (1,5/2)
 
-## Exercice 3 — Unités de volume (2 points)
+1. $2\ L=2000\ cm^3$ — **0,5/1**
 
-Convertis :
+Tu as donné la bonne conversion de référence : $1\ L=1000\ cm^3$, mais tu n'as pas effectué la multiplication par 2. Le résultat attendu était explicitement demandé.
 
-1. $2\ L$ en $cm^3$.
-1 litre =1000cm^3
-2. $350\ cm^3$ en $mL$.
-350mL
+2. $350\ cm^3=350\ mL$ — **1/1**
 
-## Exercice 4 — Problème (2 points)
+### Exercice 4 — Problème (2/2)
 
-Une boîte a la forme d'un pavé droit de dimensions 20 cm × 10 cm × 5 cm.
+$20\times10\times5=1000\ cm^3$
 
-On veut remplir cette boîte avec des cubes de 1 cm de côté.
+Un cube de 1 cm de côté possède un volume de $1\ cm^3$. Il est donc possible de placer **1000 cubes** — **2/2**.
 
-Combien de cubes peut-on placer dans la boîte ?
-20*10*5=1000
+## Bilan pédagogique
 
-**Consignes :** pas de calculatrice. Rédige les calculs et indique les unités.
+### Note : 9,5/10
 
-**Note :** à compléter après correction.
+Les solides et les volumes sont très bien maîtrisés.
+
+La seule omission concerne l'application de la conversion $2\ L=2000\ cm^3$. Il s'agit d'une petite erreur d'exécution, pas d'une lacune conceptuelle : la relation fondamentale $1\ L=1000\ cm^3$ est connue.
+
+**Moyenne des diagnostics : 9,18/10 (91,8 %).**
+
+Prochaine étape : poursuivre les derniers domaines de 6e avant le contrôle global de validation.
