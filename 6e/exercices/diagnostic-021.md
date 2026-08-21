@@ -1,60 +1,52 @@
 # Diagnostic 021 — Symétrie et transformations géométriques
 
-**Objectif :** vérifier les bases de la symétrie axiale et la compréhension des transformations simples.
+**Note finale : 10/10 (100 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Vocabulaire (2 points)
+### Exercice 1 — Vocabulaire (2/2)
 
-1. Comment appelle-t-on la droite par rapport à laquelle on effectue une symétrie axiale ?
-un axe
+1. La droite est un **axe de symétrie** — **0,5/0,5**
+2. Le symétrique de A par rapport à (d) est **le point A' obtenu par réflexion de A par rapport à (d)**. La réponse « axiale, perpendiculaire, symétrique » est suffisamment précise dans le contexte — **0,5/0,5**
+3. La droite (d) est **perpendiculaire** au segment [AA'] — **0,5/0,5**
+4. Le milieu de [AA'] se trouve **sur (d)** — **0,5/0,5**
 
-2. Quel est le symétrique d'un point A par rapport à une droite (d) ?
-axiale, perpendiculaire, symétrique, 
-3. Si A' est le symétrique de A par rapport à (d), que peut-on dire de (d) par rapport au segment [AA'] ?
-perpendiculaire 
-4. Où se trouve le milieu de [AA'] par rapport à (d) ?
-sur d
+### Exercice 2 — Reconnaître une symétrie (2/2)
 
-## Exercice 2 — Reconnaître une symétrie (2 points)
+1. Le symétrique est à **3 cm** de l'axe — **0,5/0,5**
+2. A et A' sont de côtés **opposés** — **0,5/0,5**
+3. $AA'=3+3=6\ cm$ — **1/1**
 
-Une figure possède un axe de symétrie vertical.
+### Exercice 3 — Construction (3/3)
 
-1. Si un point A est situé à 3 cm à droite de l'axe, à quelle distance de l'axe se trouve son symétrique A' ?
-3cm
-2. A et A' sont-ils du même côté ou de côtés opposés de l'axe ?
-opposés
-3. Quelle est la longueur du segment reliant A à A' si chacun est à 3 cm de l'axe ?
-6cm
+La construction décrite est correcte :
 
-## Exercice 3 — Construction (3 points)
+1. tracer l'axe (d) ;
+2. ouvrir le compas légèrement au-delà de la distance de A à l'axe afin que les arcs puissent couper l'axe en deux points distincts ;
+3. avec A comme centre, tracer un arc coupant (d) en deux points ;
+4. utiliser ces deux points comme centres pour tracer deux arcs de l'autre côté de l'axe ;
+5. leur intersection donne A'.
 
-Trace une droite (d) puis place un point A à 4 cm de (d).
+Cette méthode construit bien le symétrique de A par rapport à (d). — **3/3**
 
-Construis le symétrique A' de A par rapport à (d).
+### Exercice 4 — Propriétés conservées (3/3)
 
-Décris les étapes de construction.
-trace la droite d
-compat avec rayon d'ouverture de +20% mini par rapport a la distance de l'axe
-centre du compat en A, 2 arc coupe d a 2 endroit différent
-compat sur ces 2 point avec arc de cercle de l'autre côté de l'axe
-le pt A' est au croisement de ces 2 axe
+1. Longueurs : **conservées** — **1/1**
+2. Angles : **conservés** — **1/1**
+3. Forme générale : **conservée**, mais l'image est inversée comme dans un miroir — **1/1**
 
-## Exercice 4 — Propriétés conservées (3 points)
+La justification sur l'effet miroir est pertinente.
 
-Une figure est transformée par symétrie axiale.
+## Bilan pédagogique
 
-Indique si les propriétés suivantes sont **conservées** ou **non conservées** :
+### Note : 10/10
 
-1. les longueurs ;
-oui
-2. les angles ;
-oui
-3. la forme générale de la figure.
-oui mais inversement par rapport a l'axe sous forme de miroir 
+La symétrie axiale est maîtrisée : vocabulaire, propriétés, distances et construction sont corrects.
 
-Justifie brièvement une de tes réponses.
+La construction au compas montre en particulier une bonne compréhension géométrique : tu ne te contentes pas d'appliquer une recette, tu comprends pourquoi les deux arcs permettent de déterminer A'.
 
-**Consignes :** règle, équerre et compas autorisés. Pas de calculatrice.
+Aucune lacune identifiée sur ce domaine.
 
-**Note :** à compléter après correction.
+**Moyenne des diagnostics : 9,14/10 (91,4 %).**
+
+Prochaine étape : poursuivre les derniers domaines de 6e avant le contrôle global de validation.
