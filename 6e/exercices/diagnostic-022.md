@@ -1,46 +1,50 @@
 # Diagnostic 022 — Angles et droites
 
-**Objectif :** vérifier les connaissances de 6e sur les angles, les droites parallèles et perpendiculaires.
+**Note finale : 10/10 (100 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Vocabulaire des angles (3 points)
+### Exercice 1 — Vocabulaire des angles (3/3)
 
+1. 90° → **angle droit** — **1/1**
+2. inférieur à 90° → **angle aigu** — **1/1**
+3. supérieur à 90° et inférieur à 180° → **angle obtus** — **1/1**
 
-1. Comment appelle-t-on un angle de 90° ?
-angle droit
-2. Comment appelle-t-on un angle inférieur à 90° ?
-angle aigu
-3. Comment appelle-t-on un angle supérieur à 90° mais inférieur à 180° ?
-angle obtu
+### Exercice 2 — Mesure d'angles (2/2)
 
-## Exercice 2 — Mesure d'angles (2 points)
+1. 35° → **angle aigu** — **1/1**
+2. Angle complémentaire :
 
-Un angle mesure 35°.
+$90-35=55°$
 
-1. Est-il aigu, droit ou obtus ?
-aigu
-2. Combien mesure l'angle complémentaire de cet angle ?
-55°
+→ **55°** — **1/1**
 
-## Exercice 3 — Droites (3 points)
+### Exercice 3 — Droites (3/3)
 
-1. Que signifie que deux droites sont perpendiculaires ?
-qu'elle se coupe a 90 degrés
-2. Que signifie que deux droites sont parallèles ?
-d'elle ne se coupe jamais même si ont les prolonge a l'infini
-3. Deux droites parallèles peuvent-elles se couper ? Justifie.
-non, voir ci dessus
+1. Deux droites perpendiculaires se coupent en formant un angle droit, donc à **90°** — **1/1**
+2. Deux droites parallèles sont dans un même plan et **ne se coupent pas**, même lorsqu'on les prolonge — **1/1**
+3. Deux droites parallèles distinctes ne peuvent pas se couper — **1/1**
 
-## Exercice 4 — Construction (2 points)
+### Exercice 4 — Construction (2/2)
 
-Trace une droite (d), puis une droite (d') perpendiculaire à (d) passant par un point A situé sur (d).
+La construction décrite avec la règle et l'équerre est correcte : l'équerre permet d'obtenir la direction perpendiculaire à (d), puis la droite est tracée en passant par A.
 
-Décris brièvement la construction utilisée.
-regle équerre compat ou rapporteur possible, ont va utiliser la règle et l'équerre :
-on trace une droite a la regle, on place ensuite un point a sur d, ont place ensuite la regle approximativement perpendiculaire a d, ont la rapproche du point A, ont place l'équerre contre cette règle, ont met l'equerre perpendiculairement a d et ont appliqué fermement la regle contre l'équerre, puis ont place la regle sur le point A tout en gardant l'équerre perpendiculaire a d, ont trace la droite d'
+La description est suffisamment précise pour identifier une construction valide. — **2/2**
 
+## Bilan pédagogique
 
-**Consignes :** règle, équerre et rapporteur autorisés. Pas de calculatrice.
+### Note : 10/10
 
-**Note :** à compléter après correction.
+Les angles et les droites sont maîtrisés :
+
+- classification des angles ;
+- angles complémentaires ;
+- définition des droites perpendiculaires ;
+- définition des droites parallèles ;
+- construction d'une perpendiculaire.
+
+Aucune lacune conceptuelle identifiée.
+
+**Moyenne des diagnostics : 9,17/10 (91,7 %).**
+
+Prochaine étape : poursuivre les derniers domaines de 6e avant le contrôle global de validation.
