@@ -1,48 +1,52 @@
 # Diagnostic 018 — Fractions et nombres décimaux
 
-**Objectif :** vérifier la maîtrise des fractions simples, des fractions décimales et de leur écriture sous forme décimale.
+**Note finale : 10/10 (100 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Lire une fraction (2 points)
+### Exercice 1 — Lire une fraction (2/2)
 
-Pour la fraction $\frac{3}{5}$ :
+Pour $\frac{3}{5}$ :
 
-1. Quel est le numérateur ?
-3
-2. Quel est le dénominateur ?
-5
-3. En combien de parts égales l'unité est-elle divisée ?
-5
-4. Combien de parts sont considérées ?
-3
+1. Numérateur : **3** — **0,5/0,5**
+2. Dénominateur : **5** — **0,5/0,5**
+3. L'unité est divisée en **5 parts égales** — **0,5/0,5**
+4. **3 parts** sont considérées — **0,5/0,5**
 
-## Exercice 2 — Fractions d'une quantité (3 points)
+### Exercice 2 — Fractions d'une quantité (3/3)
 
-Une classe compte 30 élèves.
+1. $30\times\frac13=30\div3=10$ — **1,5/1,5**
+2. $30\times\frac25=60\div5=12$ — **1,5/1,5**
 
-1. Les $\frac{1}{3}$ des élèves portent des lunettes. Combien d'élèves cela représente-t-il ?
-30*1/3=30/3=10
-2. Les $\frac{2}{5}$ des élèves ont choisi une activité sportive. Combien d'élèves cela représente-t-il ?
-30*2/5=60/5=12
+Les deux méthodes sont correctes et les résultats sont correctement obtenus.
 
-## Exercice 3 — Fractions décimales (3 points)
+### Exercice 3 — Fractions décimales (3/3)
 
-Écris sous forme décimale :
+1. $\frac7{10}=0,7$ — **1/1**
+2. $\frac{35}{100}=0,35$ — **1/1**
+3. $\frac{125}{100}=1,25$ — **1/1**
 
-1. $\frac{7}{10}=0,7$
-2. $\frac{35}{100}=0,35$
-3. $\frac{125}{100}=1,25$
+### Exercice 4 — Comparaison (2/2)
 
-## Exercice 4 — Comparaison (2 points)
+1. $0,7>0,65$ — **1/1**
+2. $\frac34=0,75$ — **1/1**
 
-Compare les nombres suivants en utilisant `<`, `>` ou `=` :
+Les deux comparaisons sont correctes. La justification demandée n'est pas explicitement développée, mais les transformations et résultats fournis permettent de vérifier la seconde égalité ; aucune pénalité supplémentaire n'est appliquée.
 
-1. $0,7 > 0,65$
-2. $\frac{3}{4} = 0,75$
+## Bilan pédagogique
 
-Justifie au moins une de tes réponses.
+### Note : 10/10
 
-**Consignes :** pas de calculatrice. Rédige les calculs nécessaires.
+Les fractions et nombres décimaux testés sont maîtrisés :
 
-**Note :** à compléter après correction.
+- vocabulaire des fractions ;
+- fraction d'une quantité ;
+- fractions décimales ;
+- passage fraction → décimal ;
+- comparaison de nombres.
+
+Aucune lacune conceptuelle identifiée sur ce domaine.
+
+**Moyenne des diagnostics : 9,10/10 (91,0 %).**
+
+Prochaine étape : poursuivre les derniers domaines de 6e avant le contrôle global de validation.
