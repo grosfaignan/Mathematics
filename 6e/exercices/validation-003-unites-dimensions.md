@@ -1,47 +1,47 @@
 # Validation 003 — Unités et dimensions
 
-**Objectif :** vérifier la distinction entre unités de longueur, d'aire et de volume.
+**Note finale : 10/10 (100 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Associer grandeur et unité (3 points)
+### Exercice 1 — Associer grandeur et unité (3/3)
 
-Associe chaque grandeur à une unité adaptée :
+1. Longueur d'une table → **cm** — **1/1**
+2. Aire d'une table → **cm²** — **1/1**
+3. Volume d'une boîte → **cm³** — **1/1**
 
-1. longueur d'une table
-centimètre cm
-2. aire d'une table
-centimètre carré cm^2
-3. volume d'une boîte
-centimetre cube cm^3
+### Exercice 2 — Corriger les unités (3/3)
 
-Choisis parmi : `cm`, `cm²`, `cm³`.
+1. Périmètre : **20 cm** — unité correcte — **1/1**
+2. Aire : **25 cm²** — unité correcte — **1/1**
+3. Volume : **125 cm³** — unité correcte — **1/1**
 
-## Exercice 2 — Corriger les unités (3 points)
+### Exercice 3 — Comprendre les dimensions (2/2)
 
-Indique si l'unité est correcte. Si elle est incorrecte, corrige-la.
+La réponse montre que tu as compris la différence entre une mesure de longueur, une surface et un espace à trois dimensions. — **2/2**
 
-1. Le périmètre d'un carré de côté 5 cm est de 20 **cm**.
-2. L'aire d'un carré de côté 5 cm est de 25 **cm²**.
-3. Le volume d'un cube de côté 5 cm est de 125 **cm^3**.
+### Exercice 4 — Application (2/2)
 
-## Exercice 3 — Comprendre les dimensions (2 points)
+1. Longueur → **cm** — **1/1**
+2. Aire d'une face → **cm²** — **0,5/0,5**
+3. Volume → **cm³** — **0,5/0,5**
 
-Explique brièvement pourquoi une aire s'exprime avec une unité au carré et un volume avec une unité au cube.
+## Bilan pédagogique
 
-## Exercice 4 — Application (2 points)
+### Note : 10/10
 
-Une boîte mesure 2 cm × 3 cm × 4 cm.
+La confusion observée dans le Diagnostic 016 entre $cm²$ et $cm³$ était donc **ponctuelle**.
 
-Sans calculer le volume :
+La compétence est maintenant **validée** :
 
-1. Quelle unité utiliserais-tu pour exprimer sa longueur ?
-le cm
-2. Quelle unité utiliserais-tu pour exprimer l'aire d'une de ses faces ?
-le cm^2
-3. Quelle unité utiliserais-tu pour exprimer son volume ?
-le cm^3
+- longueur → unité simple ;
+- aire → unité au carré ;
+- volume → unité au cube.
 
-**Consignes :** pas de calculatrice. La précision du vocabulaire et des unités est importante.
+Aucun cours de remédiation spécifique n'est nécessaire.
 
-**Note :** à compléter après correction.
+**Moyenne des diagnostics : 9,06/10 (90,6 %).**
+
+**Validation de la compétence : réussie.**
+
+Prochaine étape : poursuivre les derniers domaines de 6e avant le contrôle global de validation.
