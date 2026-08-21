@@ -16,8 +16,6 @@ Pour $\frac{3}{5}$ :
 1. $\frac12=\frac5{10}$ — **1/1**
 2. $\frac34=\frac{75}{100}$ — **1/1**
 
-Les deux fractions sont bien équivalentes.
-
 ### Exercice 3 — Fraction et nombre décimal (3/3)
 
 1. $\frac1{10}=0,1$ — **1/1**
