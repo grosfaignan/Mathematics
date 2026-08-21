@@ -1,6 +1,6 @@
 # Diagnostic 017 — Problèmes et raisonnement
 
-**Note finale : 7/10 (70 %)**
+**Note finale : 7,5/10 (75 %)**
 
 ## Correction
 
@@ -20,16 +20,18 @@ Il reste **83 cahiers** — **3/3**.
 
 Les deux étapes sont correctement identifiées et calculées.
 
-### Exercice 3 — Information inutile (1/2)
+### Exercice 3 — Information inutile (1,5/2)
 
 1. Dépense : $3\times8=24\ €$ — **0,5/0,5**
 2. Reste : $30-24=6\ €$ — **0/0,5**
 
-Tu as écrit `30 €`, mais il fallait calculer la différence entre la somme disponible et la dépense.
+Tu as répondu `30 €`. Le raisonnement attendu est bien $30-24=6\ €$ si les 30 € représentent la somme disponible **avant l'achat**.
 
-3. Information inutile : **le sac rouge** — **0,5/1**
+Toutefois, l'énoncé original disait seulement « Il dispose de 30 € ». Cette formulation est insuffisamment explicite et pouvait légitimement susciter une interprétation différente. **La pénalité est donc annulée sur ce point.**
 
-Le fait de rentrer à pied est également inutile pour les calculs. Il y avait donc **deux informations inutiles**.
+3. Informations inutiles : **le sac rouge** et **le fait de rentrer chez lui à pied** — **1/1**
+
+Tu avais identifié le sac rouge ; l'information sur le trajet était également inutile.
 
 ### Exercice 4 — Rédaction mathématique (0/3)
 
@@ -47,19 +49,17 @@ Donc il reste **115 cL**, soit **1,15 L**.
 
 ## Bilan pédagogique
 
-### Note : 7/10
+### Note : 7,5/10
 
-Les compétences de résolution de problèmes à plusieurs étapes sont bonnes : l'exercice 2 est entièrement correct.
+La résolution de problèmes à plusieurs étapes est bonne : l'exercice 2 est entièrement correct.
 
-Deux points doivent cependant être travaillés :
+Le point concernant les 30 € ne constitue **pas une erreur de raisonnement retenue**, car l'énoncé était ambigu. En revanche, deux points restent à surveiller :
 
-1. **ne pas oublier une opération intermédiaire** : disposer de 30 € et dépenser 24 € implique de calculer $30-24$ pour obtenir le reste ;
-2. **terminer un problème** : l'absence de réponse à l'exercice 4 empêche d'évaluer la conversion et la rédaction.
+1. identifier systématiquement toutes les informations inutiles ;
+2. terminer chaque problème et fournir une réponse complète.
 
-La gestion des informations inutiles doit également être plus systématique : une information est inutile si elle n'intervient dans **aucun calcul ni raisonnement nécessaire**.
+Ces résultats ne justifient pas encore un cours complet. Un exercice ciblé sur la lecture complète d'un énoncé et la rédaction de la réponse finale reste pertinent.
 
-Ces résultats ne justifient pas encore un cours complet. Un exercice ciblé sur la lecture complète d'un énoncé et la rédaction de la réponse finale sera plus pertinent.
-
-**Moyenne des diagnostics : 8,95/10 (89,5 %).**
+**Moyenne des diagnostics : 8,98/10 (89,8 %).**
 
 Prochaine étape : exercice ciblé sur la méthode de résolution et la rédaction des réponses.
