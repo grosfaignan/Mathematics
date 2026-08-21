@@ -9,8 +9,11 @@
 Associe chaque description au solide correspondant :
 
 1. Un solide possédant 6 faces carrées identiques.
+cube
 2. Un solide possédant 6 faces rectangulaires, dont les faces opposées sont identiques.
+pavé droit 
 3. Un solide possédant deux bases circulaires parallèles et une surface latérale courbe.
+cylindre
 
 Choisis parmi : **cube, pavé droit, cylindre**.
 
@@ -19,15 +22,20 @@ Choisis parmi : **cube, pavé droit, cylindre**.
 Un pavé droit mesure 8 cm de longueur, 5 cm de largeur et 3 cm de hauteur.
 
 1. Calcule son volume.
+5*8*3=120cm^3
 2. Donne la formule utilisée.
-3. Donne le résultat avec son unité.
+L*l*H
+3. Donne le résultat avec son unité
+120cm^3
 
 ## Exercice 3 — Unités de volume (2 points)
 
 Convertis :
 
 1. $2\ L$ en $cm^3$.
+1 litre =1000cm^3
 2. $350\ cm^3$ en $mL$.
+350mL
 
 ## Exercice 4 — Problème (2 points)
 
@@ -36,6 +44,7 @@ Une boîte a la forme d'un pavé droit de dimensions 20 cm × 10 cm × 5 cm.
 On veut remplir cette boîte avec des cubes de 1 cm de côté.
 
 Combien de cubes peut-on placer dans la boîte ?
+20*10*5=1000
 
 **Consignes :** pas de calculatrice. Rédige les calculs et indique les unités.
 
