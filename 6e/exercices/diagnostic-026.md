@@ -1,41 +1,43 @@
 # Diagnostic 026 — Fractions et nombres décimaux
 
-**Objectif :** vérifier la maîtrise des fractions simples et de leur écriture décimale.
+**Note finale : 10/10 (100 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Lire une fraction (2 points)
+### Exercice 1 — Lire une fraction (2/2)
 
-Pour la fraction $\frac{3}{5}$ :
+Pour $\frac{3}{5}$ :
 
-1. Quel est le numérateur ?
-3
-2. Quel est le dénominateur ?
-5
+- numérateur : **3** — **1/1**
+- dénominateur : **5** — **1/1**
 
-## Exercice 2 — Fractions équivalentes (2 points)
+### Exercice 2 — Fractions équivalentes (2/2)
 
-Complète :
+1. $\frac12=\frac5{10}$ — **1/1**
+2. $\frac34=\frac{75}{100}$ — **1/1**
 
-1. $\frac{1}{2}=\frac{5}{10}$
-2. $\frac{3}{4}=\frac{75}{100}$
+Les deux fractions sont bien équivalentes.
 
-## Exercice 3 — Fraction et nombre décimal (3 points)
+### Exercice 3 — Fraction et nombre décimal (3/3)
 
-Écris sous forme décimale :
+1. $\frac1{10}=0,1$ — **1/1**
+2. $\frac7{10}=0,7$ — **1/1**
+3. $\frac{25}{100}=0,25$ — **1/1**
 
-1. $\frac{1}{10}=0,1$
-2. $\frac{7}{10}=0,7$
-3. $\frac{25}{100}=0,25$
+### Exercice 4 — Comparer (3/3)
 
-## Exercice 4 — Comparer (3 points)
+1. $\frac3{10}=0,3<0,4$ — **1/1**
+2. $\frac7{10}=0,7>0,65$ — **1/1**
+3. $\frac12=0,5=0,50$ — **1/1**
 
-Compare avec `<`, `>` ou `=` :
+## Bilan pédagogique
 
-1. $\frac{3}{10}$ < $0,4$
-2. $\frac{7}{10}$ > $0,65$
-3. $\frac{1}{2}$ = $0,50$
+### Note : 10/10
 
-**Consignes :** pas de calculatrice. Justifie les comparaisons si nécessaire.
+Les fractions et nombres décimaux sont maîtrisés : vocabulaire, fractions équivalentes, écriture décimale et comparaison.
 
-**Note :** à compléter après correction.
+Aucune lacune identifiée sur ce domaine.
+
+**Moyenne des diagnostics : 9,22/10 (92,2 %).**
+
+Prochaine étape : poursuivre les derniers domaines de 6e avant le contrôle global de validation.
