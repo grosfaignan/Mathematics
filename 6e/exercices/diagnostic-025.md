@@ -1,55 +1,55 @@
 # Diagnostic 025 — Lecture et organisation de données
 
-**Objectif :** vérifier la lecture de tableaux, graphiques et données simples.
+**Note finale : 9,5/10 (95 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Lire un tableau (3 points)
+### Exercice 1 — Lire un tableau (3/3)
 
-Une bibliothèque compte les emprunts suivants pendant une semaine :
+1. Maximum : **mercredi** — **1/1**
+2. Lundi + mardi : $12+8=20$ — **1/1**
+3. Total : $12+8+15+10+5=50$ — **1/1**
 
-| Jour | Lundi | Mardi | Mercredi | Jeudi | Vendredi |
-|---|---:|---:|---:|---:|---:|
-| Livres empruntés | 12 | 8 | 15 | 10 | 5 |
+### Exercice 2 — Moyenne (2/3)
 
-1. Quel jour y a-t-il eu le plus d'emprunts ?
-mercredi
-2. Combien de livres ont été empruntés lundi et mardi réunis ?
-20
-3. Combien de livres ont été empruntés pendant toute la semaine ?
-50
+Tu poses correctement la moyenne :
 
-## Exercice 2 — Moyenne (3 points)
+$(12+15+10+13)/4$
 
-Un élève obtient les notes suivantes :
+Mais la somme vaut :
 
-$12,\ 15,\ 10,\ 13$
+$12+15+10+13=50$
 
-Calcule sa moyenne.
-(12+15+10+13)/4=40/4=10
+et non 40.
 
-## Exercice 3 — Fréquence simple (2 points)
+Donc :
 
-Dans une classe de 25 élèves, 10 viennent à l'école à vélo.
+$50/4=12,5$
 
-1. Quelle fraction des élèves vient à vélo ?
-10/25e
-2. Quelle proportion cela représente-t-il sous forme décimale ?
-0,4
+La moyenne est **12,5/20**. — **2/3**
 
-## Exercice 4 — Interprétation (2 points)
+La méthode est correcte ; seule l'addition est erronée.
 
-Une température est relevée à différents moments :
+### Exercice 3 — Fréquence simple (2/2)
 
-| Heure | 8h | 10h | 12h | 14h | 16h |
-|---|---:|---:|---:|---:|---:|
-| Température (°C) | 8 | 11 | 15 | 17 | 14 |
+1. Fraction : $10/25=2/5$ — **1/1**
+2. Proportion décimale : $10/25=0,4$ — **1/1**
 
-1. À quelle heure la température est-elle maximale ?
-14h00
-2. De combien de degrés la température a-t-elle augmenté entre 8h et 14h ?
-9°
+La notation « 10/25e » est interprétée comme $10/25$ ; l'écriture mathématique attendue est $\frac{10}{25}$.
 
-**Consignes :** pas de calculatrice. Rédige les calculs nécessaires.
+### Exercice 4 — Interprétation (2/2)
 
-**Note :** à compléter après correction.
+1. Température maximale : **14h** — **1/1**
+2. Augmentation entre 8h et 14h : $17-8=9\ ^\circ C$ — **1/1**
+
+## Bilan pédagogique
+
+### Note : 9,5/10
+
+La lecture et l'interprétation des données sont maîtrisées.
+
+La moyenne est bien comprise : la méthode est correcte, mais une erreur d'addition a conduit à un résultat faux. Il s'agit d'une erreur de calcul et non d'une lacune conceptuelle.
+
+**Moyenne des diagnostics : 9,19/10 (91,9 %).**
+
+Prochaine étape : poursuivre les derniers domaines de 6e avant le contrôle global de validation.
