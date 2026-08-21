@@ -1,44 +1,51 @@
 # Diagnostic 023 — Périmètres et aires
 
-**Objectif :** vérifier la maîtrise des calculs de périmètre et d'aire des figures usuelles.
+**Note finale : 9/10 (90 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Périmètre d'un rectangle (3 points)
+### Exercice 1 — Périmètre d'un rectangle (3/3)
 
-Un rectangle mesure 8 cm de longueur et 5 cm de largeur.
+1. $16+10=26$ — **1/1**
+2. Formule : $P=2L+2l$ — **1/1**
+3. $P=26\ cm$ — **1/1**
 
-1. Calcule son périmètre.
-16+10=26
-2. Écris la formule utilisée.
-2L+2l=p
-3. Donne le résultat avec son unité.
-26cm
-## Exercice 2 — Aire d'un rectangle (3 points)
+### Exercice 2 — Aire d'un rectangle (3/3)
 
-Le même rectangle mesure 8 cm sur 5 cm.
+1. $8\times5=40$ — **1/1**
+2. Formule : $A=L\times l$ — **1/1**
+3. $A=40\ cm^2$ — **1/1**
 
-1. Calcule son aire.
-8*5=40
-2. Écris la formule utilisée.
-L*l=A
-3. Donne le résultat avec son unité.
-40cm^2
-## Exercice 3 — Carré (2 points)
+### Exercice 3 — Carré (1/2)
 
-Un carré possède un côté de 6 cm.
+1. Périmètre : tu as écrit $4\times6=16$.
 
-1. Calcule son périmètre.
-4*6=16
-2. Calcule son aire.
-6*6=36cm^2
+Le calcul de la formule est correct, mais l'arithmétique est incorrecte :
 
-## Exercice 4 — Attention aux unités (2 points)
+$4\times6=24\ cm$
 
-Un rectangle mesure 2 m de longueur et 50 cm de largeur.
+— **0/1**
 
-Calcule son aire en **m²**.
-2*0,5=1m^2
-**Consignes :** pas de calculatrice. Fais attention à distinguer périmètre et aire et à utiliser des unités cohérentes.
+2. Aire : $6\times6=36\ cm^2$ — **1/1**
 
-**Note :** à compléter après correction.
+### Exercice 4 — Attention aux unités (2/2)
+
+$50\ cm=0,5\ m$
+
+Donc :
+
+$A=2\times0,5=1\ m^2$
+
+— **2/2**
+
+## Bilan pédagogique
+
+### Note : 9/10
+
+La distinction entre périmètre et aire est maîtrisée, ainsi que les unités d'aire.
+
+L'unique erreur est une **erreur de calcul élémentaire** : $4\times6$ vaut 24 et non 16. Elle ne révèle pas une lacune sur la notion de périmètre puisque la formule était correctement identifiée.
+
+**Moyenne des diagnostics : 9,16/10 (91,6 %).**
+
+Prochaine étape : poursuivre les derniers domaines de 6e avant le contrôle global de validation.
