@@ -1,48 +1,62 @@
 # Diagnostic 029 — Proportionnalité, repérage et mesures
 
-**Objectif :** vérifier deux compétences encore insuffisamment testées avant le contrôle final de 6e : reconnaître une situation de proportionnalité et utiliser un repère simple.
+**Note finale : 9/10 (90 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Situation proportionnelle ? (4 points)
+### Exercice 1 — Situation proportionnelle (4/4)
 
-On achète des cahiers au prix de 3 € l'unité.
+1. Oui, le prix est proportionnel au nombre de cahiers : chaque cahier coûte 3 €. — **1/1**
+2. $3\times7=21\ €$ — **1/1**
+3. $24\div3=8$ cahiers — **1/1**
+4. Coefficient de proportionnalité : **3** — **1/1**
 
-| Nombre de cahiers | 1 | 2 | 5 | 10 |
-|---|---:|---:|---:|---:|
-| Prix (€) | 3 | 6 | 15 | 30 |
+### Exercice 2 — Attention aux faux modèles (1/2)
 
-1. Le prix est-il proportionnel au nombre de cahiers ? Justifie.
-oui proportionnalité lineaire
-2. Combien coûtent 7 cahiers ?
-3*7=21
-3. Combien de cahiers peut-on acheter avec 24 € ?
-24/3=8
-4. Donne le coefficient de proportionnalité.
-3
+1. $P(n)=5+2n$ — **1/1**
 
-## Exercice 2 — Attention aux faux modèles (2 points)
+2. **Non**, $P(n)$ n'est pas proportionnel à $n$.
 
-Une activité coûte 5 € d'inscription, puis 2 € par personne.
+En effet, une situation de proportionnalité devrait avoir la forme $P(n)=kn$. Ici :
 
-1. Écris une expression donnant le prix total $P(n)$ pour $n$ personnes.
-5+2n=p
-2. Le prix total $P(n)$ est-il proportionnel à $n$ ? Justifie.
-il est proportionnel a n-5
+$P(n)=2n+5$
 
-## Exercice 3 — Repérage (4 points)
+Il existe une partie fixe de 5 € qui empêche la proportionnalité.
 
-Dans un repère, un point A a pour coordonnées $(3;2)$ et un point B a pour coordonnées $(1;5)$.
+Tu as écrit : « il est proportionnel à $n-5$ ». Cette affirmation n'est pas correcte :
 
-1. Quelle est l'abscisse de A ?
-3
-2. Quelle est l'ordonnée de A ?
-2
-3. Quelle est l'abscisse de B ?
-1
-4. Quelle est l'ordonnée de B ?
-5
+$P(n)=2n+5 \neq k(n-5)$ pour une constante $k$ valable pour tous les $n$.
 
-**Consignes :** pas de calculatrice. Justifie les réponses de proportionnalité.
+En revanche, **la partie variable** $P(n)-5=2n$ est bien proportionnelle à $n$.
 
-**Note :** à compléter après correction.
+— **0/1**
+
+### Exercice 3 — Repérage (4/4)
+
+Pour $A=(3;2)$ :
+
+- abscisse : **3** — **1/1**
+- ordonnée : **2** — **1/1**
+
+Pour $B=(1;5)$ :
+
+- abscisse : **1** — **1/1**
+- ordonnée : **5** — **1/1**
+
+## Bilan pédagogique
+
+### Note : 9/10
+
+La proportionnalité simple et le repérage sont maîtrisés.
+
+L'exercice 2 révèle toutefois une confusion intéressante entre **fonction affine avec terme fixe** et **proportionnalité**. Cette distinction est importante et mérite d'être consolidée avant le passage en 5e, car elle reviendra régulièrement dans les problèmes de proportionnalité et d'algèbre.
+
+La distinction que tu avais déjà soulevée précédemment entre un coût « par personne » et une situation proportionnelle est donc globalement comprise, mais la formulation mathématique doit être précisée :
+
+- $2n$ est proportionnel à $n$ ;
+- $2n+5$ n'est pas proportionnel à $n$ ;
+- $2n+5$ est une expression affine.
+
+**Moyenne des diagnostics : 9,27/10 (92,7 %).**
+
+Prochaine étape : faire un court exercice de consolidation sur cette distinction, puis passer aux dernières vérifications avant le contrôle global de validation de 6e.
