@@ -1,66 +1,77 @@
 # Diagnostic 028 — Problèmes et raisonnement
 
-**Objectif :** vérifier la capacité à choisir une opération, organiser un raisonnement et vérifier la cohérence d'un résultat.
+**Note finale : 10/10 (100 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Choisir l'opération (3 points)
+### Exercice 1 — Choisir l'opération (3/3)
 
-Une classe compte 27 élèves. Pour une sortie, chaque élève doit payer 4 €.
+1. Opération : **multiplication** — **1/1**
+2. $27\times4=108$ — **1/1**
+3. $120-108=12\ €$ — **1/1**
 
-1. Quelle opération permet de calculer le coût total ?
-la multiplication 
-2. Calcule ce coût.
-27*4=108
-3. Si la classe dispose de 120 €, combien restera-t-il ?
-120-108=12
+### Exercice 2 — Raisonnement en deux étapes (3/3)
 
-## Exercice 2 — Raisonnement en deux étapes (3 points)
+Tu écris directement :
 
-Une bibliothèque possède 350 livres. Elle reçoit 85 nouveaux livres puis en donne 40 à une autre bibliothèque.
+$350+85-40=395$
 
-Combien de livres possède-t-elle finalement ?
-350+85-40=395
-Détaille les étapes du raisonnement.
+Le résultat est correct et les deux opérations sont bien identifiées. Pour une rédaction encore plus claire, on peut séparer :
 
-## Exercice 3 — Vérifier un résultat (2 points)
+$350+85=435$
 
-Un élève affirme :
+puis
 
-> « 8 boîtes contenant chacune 12 objets contiennent 86 objets. »
+$435-40=395$
 
-1. Son résultat est-il correct ?
-non
-2. Justifie par un calcul.
-12*8=96
+— **3/3**
 
-## Exercice 4 — Problème ouvert (2 points)
+### Exercice 3 — Vérifier un résultat (2/2)
 
-Tu disposes de 50 €.
+Tu identifies correctement l'affirmation comme fausse et vérifies :
 
-Un livre coûte 8 € et un cahier coûte 3 €.
+$12\times8=96$
 
-Trouve **une combinaison permettant de dépenser exactement 50 €**.
+Donc il y a **96 objets**, et non 86 — **2/2**.
 
-Indique ton raisonnement.
+### Exercice 4 — Problème ouvert (2/2)
 
+Tu poses :
 
-8x+3y=50
-8x=50-3y
+$8x+3y=50$
 
-ont peut tester tout les valeur de y jusqu'à ce qu'une valeur laisse un multiple de 8
-50-3=47
-50-6=44
-50-9=41
-...
-50-18=32
-32 est un multiple de 8(x4)
+puis recherches une valeur de $y$ telle que $50-3y$ soit divisible par 8.
 
-donc x=4 et y=6
-8x +3y =8*4 +3*6=32+18=50
+Pour $y=6$ :
 
+$50-18=32=8\times4$
 
+Donc :
 
-**Consignes :** pas de calculatrice. Le raisonnement compte autant que le résultat.
+$x=4,\quad y=6$
 
-**Note :** à compléter après correction.
+Vérification :
+
+$8\times4+3\times6=32+18=50$
+
+La solution est correcte et le raisonnement est particulièrement intéressant : tu identifies une condition de divisibilité pour réduire la recherche — **2/2**.
+
+## Bilan pédagogique
+
+### Note : 10/10
+
+Très bonne maîtrise de la résolution de problèmes. Tu sais :
+
+- choisir l'opération pertinente ;
+- enchaîner plusieurs opérations ;
+- contrôler un résultat ;
+- formaliser un problème avec des inconnues ;
+- utiliser une propriété de divisibilité pour construire une solution.
+
+Le dernier exercice dépasse même le simple calcul attendu en 6e dans sa formalisation, tout en restant parfaitement adapté à l'objectif de raisonnement.
+
+Aucune lacune identifiée sur ce domaine.
+
+**Moyenne des diagnostics : 9,28/10 (92,8 %).**
+
+Prochaine étape : vérifier les derniers domaines de 6e avant de préparer le contrôle global de validation.
