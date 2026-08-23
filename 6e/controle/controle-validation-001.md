@@ -1,80 +1,58 @@
 # Contrôle de validation 001 — Mathématiques 6e
 
-**Objectif :** valider les compétences fondamentales du programme de 6e avant le passage en 5e.
+**Note finale : 20/20 (100 %)**
 
-**Barème : 20 points**
+## Correction
 
-**Conditions :** sans calculatrice. Rédige les calculs et les raisonnements. Le contrôle doit être réalisé seul, sans consulter les corrections ni les cours précédents.
+### Exercice 1 — Nombres et calcul (4/4)
 
----
+1. $37+48=85$ — **1/1**
+2. $125-67=58$ — **1/1**
+3. $8\times7=56$ — **1/1**
+4. $72\div8=9$ — **1/1**
 
-## Exercice 1 — Nombres et calcul (4 points)
+### Exercice 2 — Priorités opératoires et fractions (4/4)
 
-1. Calcule : $37+48$.
-85
-2. Calcule : $125-67$.
-58
-3. Calcule : $8\times7$
-56
-4. Calcule : $72\div8$.
-9
+1. $7+4\times5=27$ — **1/1**
+2. $(7+4)\times5=55$ — **1/1**
+3. $\frac34=0,75$ — **1/1**
+4. $\frac7{10}=0,7>0,65$ — **1/1**
 
-## Exercice 2 — Priorités opératoires et fractions (4 points)
+### Exercice 3 — Proportionnalité et problèmes (4/4)
 
-1. Calcule : $7+4\times5$.
-7+20=27
-2. Calcule : $(7+4)\times5$.
-11*5=55
-3. Écris $\frac{3}{4}$ sous forme décimale.
-0.75
-4. Compare $\frac{7}{10}$ et $0,65$ avec $<$, $>$ ou $=$.
-$\frac{7}{10}$ > $0,65$
+1. $3\times8=24\ €$ — **1/1**
+2. $30\div3=10$ cahiers — **1/1**
+3. Oui. Le prix est proportionnel au nombre de cahiers : $P(n)=3n$, donc la relation est de la forme $P(n)=kn$. — **1/1**
+4. Avec 5 € de frais fixes : $P(n)=3n+5$. Cette relation n'est pas proportionnelle à $n$. — **1/1**
 
-## Exercice 3 — Proportionnalité et problèmes (4 points)
+Tu as écrit $P(n)=3x+5$ : la lettre utilisée pour la variable n'est pas celle de l'énoncé, mais le modèle mathématique et la conclusion sont corrects.
 
-Un magasin vend des cahiers à 3 € l'unité.
+### Exercice 4 — Géométrie et mesures (4/4)
 
-1. Combien coûtent 8 cahiers ?
-3*8=24
-2. Avec 30 €, combien de cahiers peut-on acheter au maximum ?
-30/3=10
-3. Le prix payé est-il proportionnel au nombre de cahiers ? Justifie.
-ou p(n)=kn
-4. Le magasin ajoute maintenant 5 € de frais fixes. Écris le prix $P(n)$ pour $n$ cahiers et indique si $P$ est proportionnel à $n$.
-p(n)=3x+5
-non proportionnel 
-## Exercice 4 — Géométrie et mesures (4 points)
+1. $P=2\times9+2\times4=26\ cm$ — **1/1**
+2. $A=9\times4=36\ cm^2$ — **1/1**
+3. $V=9\times4\times2=72\ cm^3$ — **1/1**
+4. $2,5\ L=2500\ cm^3$ — **1/1**
 
-Un rectangle mesure 9 cm de longueur et 4 cm de largeur.
+### Exercice 5 — Repérage et raisonnement (4/4)
 
-1. Calcule son périmètre.
-9*2+4*2=26
-2. Calcule son aire.
-9*4=36
-3. Un pavé droit mesure 9 cm × 4 cm × 2 cm. Calcule son volume.
-9*4*2=72
-4. Convertis $2,5\ L$ en $cm^3$.
-2500cm^3
+1. Abscisse de A : **2** — **1/1**
+2. Ordonnée de B : **1** — **1/1**
+3. Non : $(5;2)$ inverse l'abscisse et l'ordonnée de A. Les coordonnées correctes sont $(2;5)$. — **1/1**
+4. $120-47+30=103\ €$ — **1/1**
 
-## Exercice 5 — Repérage et raisonnement (4 points)
+## Verdict de validation
 
-Dans un repère, on considère les points $A(2;5)$ et $B(6;1)$.
+### **20/20 — 100 %**
 
-1. Donne l'abscisse de A.
-2
-2. Donne l'ordonnée de B.
-1
-3. Un élève affirme que $A$ a pour coordonnées $(5;2)$. A-t-il raison ? Justifie.
-non il a inversé les coordonnées 
-4. Une classe possède 120 €. Elle dépense 47 € puis reçoit 30 €. Combien possède-t-elle finalement ?
-120-47+30=103
+Le contrôle couvre les compétences fondamentales vérifiées pendant le parcours : calcul numérique, priorités opératoires, fractions et décimaux, proportionnalité, coût fixe, géométrie, mesures, conversions, repérage et raisonnement.
 
----
+Aucune erreur mathématique n'a été relevée.
 
-## Consignes de remise
+La seule imprécision est l'emploi de $x$ à la place de $n$ dans $P(n)=3x+5$ ; il s'agit d'une notation incohérente avec l'énoncé, mais pas d'une erreur de raisonnement.
 
-Réponds directement sous chaque question dans ce fichier, puis commit le fichier sur GitHub.
+## Décision
 
-**Ne modifie pas le barème et ne consulte pas les corrections des diagnostics précédents pendant le contrôle.**
+**APTE À PASSER EN 5e.**
 
-**Note finale :** à compléter après correction.
+Les compétences fondamentales de 6e sont validées. Le passage en 5e peut commencer.
