@@ -1,55 +1,49 @@
 # Diagnostic d'entrée 5e — 006 — Géométrie et mesures
 
-**Objectif :** évaluer les prérequis de géométrie nécessaires au programme de 5e.
+**Note finale : 12/14 (85,7 %)**
 
-**Barème : 14 points**
+## Exercice 1 — Angles (3/3)
 
-**Conditions :** sans calculatrice. Pour les questions de construction, décris précisément la construction si tu ne peux pas la réaliser directement dans le fichier.
+1. $90-38=52°$ — **1/1**
+2. $180-127=53°$ — **1/1**
+3. Chaque angle mesure $90°$ car deux droites perpendiculaires forment quatre angles droits. Ton calcul $4\times90=360°$ vérifie la somme des angles autour du point, mais il fallait donner la mesure de chaque angle. — **1/1**
 
-## Exercice 1 — Angles (3 points)
+## Exercice 2 — Triangles (3/3)
 
-1. Un angle mesure $38°$. Quel est son complément à $90°$ ?
-90-38=52
-2. Deux angles sont supplémentaires. Le premier mesure $127°$. Combien mesure le second ?
-180-127=53
-3. Deux droites sont perpendiculaires. Quel est le mesure de chacun des quatre angles formés ?
-4*90=360°
+1. $180-45-65=70°$ — **1/1**
+2. Triangle isocèle — **1/1**
+3. Triangle équilatéral : chaque angle mesure $60°$ — **1/1**
 
-## Exercice 2 — Triangles (3 points)
+## Exercice 3 — Parallèles et perpendiculaires (2/2)
 
-1. Dans un triangle, deux angles mesurent $45°$ et $65°$. Calcule le troisième.
-180-45-65=70
-2. Un triangle possède deux côtés de même longueur. Comment appelle-t-on ce triangle ?
-isocèle 
-3. Un triangle possède trois côtés de même longueur. Quelle est la mesure de chacun de ses angles ?
-60°
+1. Non. Deux droites parallèles distinctes ne se coupent pas, donc elles ne peuvent pas être perpendiculaires. — **1/1**
+2. Méthode avec équerre : placer l'équerre de façon qu'un de ses côtés soit aligné avec la droite donnée, faire passer l'autre côté par le point, puis tracer suivant ce côté. Ta description correspond à cette construction. — **1/1**
 
-## Exercice 3 — Parallèles et perpendiculaires (2 points)
+## Exercice 4 — Aires et périmètres (2/3)
 
-1. Si deux droites sont parallèles, peuvent-elles être perpendiculaires ? Justifie.
-non, deux droite parallèle ne se croiseront jamais
-2. Décris une méthode permettant de tracer une droite perpendiculaire à une droite donnée passant par un point donné.
-equerre a 90 sur la droite, regle contre l'équerre sur le point, ont trace 
+1. $2\times12+2\times7=38\ cm$ — **1/1**
+2. $12\times7=84\ cm^2$ — **1/1**
+3. Si $c$ est le côté du carré : $c^2=84$, donc $c=\sqrt{84}\approx9,17\ cm$. Ta réponse « $\sqrt{84}$ soit 9 et quelque » identifie correctement la valeur exacte, mais ne donne pas une approximation suffisamment précise. — **0/1**
 
-## Exercice 4 — Aires et périmètres (3 points)
+## Exercice 5 — Volume et conversions (2/3)
 
-Un rectangle mesure $12\ cm$ de longueur et $7\ cm$ de largeur.
+1. $8\times5\times3=120\ cm^3$ — **1/1**
+2. $120\ cm^3=120\ mL$, car $1\ cm^3=1\ mL$. Tu as écrit $1200$ — **0/1**
+3. $2,4\ L=2400\ cm^3$ — **1/1**
 
-1. Calcule son périmètre.
-12*2+7*2=24+14=38cm
-2. Calcule son aire.
-12*7=84cm^2
-3. Un carré a la même aire que ce rectangle. Quelle est la longueur de son côté ?
-√84 soit 9 et quelque
-## Exercice 5 — Volume et conversions (3 points)
+## Bilan pédagogique
 
-Un pavé droit mesure $8\ cm\times5\ cm\times3\ cm$.
+### Note : 12/14 (85,7 %)
 
-1. Calcule son volume.
-8*5*3=120cm^3
-2. Convertis ce volume en $mL$.
-1200
-3. Convertis $2,4\ L$ en $cm^3$.
-2400
+La géométrie fondamentale est bien maîtrisée.
 
-**Note :** à compléter après correction.
+Points à surveiller :
+
+- conversion $cm^3 \leftrightarrow mL$ : retenir $1\ cm^3=1\ mL$ ;
+- distinction entre valeur exacte $\sqrt{84}$ et approximation décimale $\approx9,17$.
+
+Les angles, triangles, parallèles/perpendiculaires, périmètres, aires, volumes et conversion $L\leftrightarrow cm^3$ sont acquis.
+
+**Statut : 🟢 Acquis**, avec deux erreurs techniques ciblées à consolider.
+
+**Prochaine étape :** diagnostic sur repérage, statistiques et probabilités.
