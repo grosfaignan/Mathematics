@@ -1,41 +1,51 @@
 # Diagnostic d'entrée 5e — 002 — Fractions et calcul
 
-**Objectif :** vérifier la maîtrise des fractions nécessaire à l'entrée en 5e.
+**Note finale : 8/10 (80 %)**
 
-**Barème : 10 points**
+## Exercice 1 — Fractions équivalentes (2/2)
 
-**Conditions :** sans calculatrice. Détaille les étapes lorsque nécessaire.
+1. $\frac35=\frac6{10}$ — **1/1**
+2. $\frac7{10}=\frac{70}{100}$ — **1/1**
 
-## Exercice 1 — Fractions équivalentes (2 points)
+## Exercice 2 — Comparer des fractions (2/2)
 
-Complète :
+1. $\frac34>\frac23$ — **1/1**
+2. $\frac58>\frac12$ — **1/1**
 
-1. $\frac{3}{5}=\frac{6}{10}$
-2. $\frac{7}{10}=\frac{70}{100}$
+## Exercice 3 — Addition et soustraction (2/3)
 
-## Exercice 2 — Comparer des fractions (2 points)
+1. $\frac27+\frac37=\frac57$ — **1/1**
+2. $\frac9{10}-\frac3{10}=\frac6{10}=\frac35$ — **0/1**
 
-Compare avec `<`, `>` ou `=` :
+Tu as écrit $\frac9{10}-\frac3{10}=\frac{12}{10}$. Pour une addition ou une soustraction de fractions ayant le même dénominateur, on conserve le dénominateur et on additionne ou soustrait les numérateurs :
 
-1. $\frac{3}{4}$ > $\frac{2}{3}$
-2. $\frac{5}{8}$ > $\frac{1}{2}$
+$\frac9{10}-\frac3{10}=\frac{9-3}{10}=\frac6{10}=\frac35$.
 
-## Exercice 3 — Addition et soustraction (3 points)
+3. $\frac12+\frac14=\frac24+\frac14=\frac34$ — **1/1**
 
-Calcule et simplifie si nécessaire :
+## Exercice 4 — Fraction d'une quantité (2/3)
 
-1. $\frac{2}{7}+\frac{3}{7}=5/7$
-2. $\frac{9}{10}-\frac{3}{10}=12/10$
-3. $\frac{1}{2}+\frac{1}{4}=3/4$
+1. $28\times\frac14=7$ — **1/1**
+2. $28\times\frac37=12$ — **1/1**
+3. Si $\frac14$ des élèves participent, la fraction qui ne participe pas est :
 
-## Exercice 4 — Fraction d'une quantité (3 points)
+$1-\frac14=\frac44-\frac14=\frac34$ — **0/1**
 
-Une classe compte 28 élèves.
+La formulation « quelle fraction des élèves » désigne ici la **part du groupe** qui ne participe pas. Elle a donc bien un sens : la réponse attendue est $\frac34$.
 
-1. Les $\frac{1}{4}$ des élèves participent à une activité. Combien d'élèves cela représente-t-il ?
-(28*1)/4=7
-2. Les $\frac{3}{7}$ des élèves portent un tee-shirt blanc. Combien d'élèves cela représente-t-il ?
-(28*3)/7=12
-3. Quelle fraction des élèves ne participent pas à l'activité si $\frac14$ y participe ?
-$\frac14$ ne veut rien dire
-**Note :** à compléter après correction.
+## Bilan pédagogique
+
+### Note : 8/10
+
+Les fractions équivalentes, les comparaisons et le calcul d'une fraction d'une quantité sont maîtrisés.
+
+Deux points doivent être surveillés :
+
+- la soustraction de fractions de même dénominateur ;
+- le complément d'une fraction à 1.
+
+**Statut : 🟠 Fragile sur les opérations et compléments de fractions.**
+
+Il faudra vérifier rapidement si ces deux erreurs sont ponctuelles ou traduisent une difficulté plus générale avant de décider d'une consolidation.
+
+**Prochaine étape :** diagnostic sur calcul littéral et expressions algébriques.
