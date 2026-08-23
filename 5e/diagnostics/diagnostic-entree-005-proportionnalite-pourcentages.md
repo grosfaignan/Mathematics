@@ -1,55 +1,50 @@
 # Diagnostic d'entrée 5e — 005 — Proportionnalité, pourcentages et problèmes
 
-**Objectif :** évaluer la maîtrise de la proportionnalité et introduire les pourcentages avec des situations moins directes.
+**Note finale : 10/12 (83,3 %)**
 
-**Barème : 12 points**
+## Exercice 1 — Coefficient de proportionnalité (3/3)
 
-**Conditions :** sans calculatrice. Rédige les raisonnements.
+1. $6\times250/100=15\ L$ — **1/1**
+2. $30/6\times100=500\ km$ — **1/1**
+3. La situation est proportionnelle : $P(n)=kn$, avec un coefficient constant $k=6/100=0,06\ L/km$. — **1/1**
 
-## Exercice 1 — Coefficient de proportionnalité (3 points)
+Ton raisonnement $P(n)=kn$ est correct. En revanche, $k=6$ n'est correct que si l'on choisit $100\ km$ comme unité de référence ; pour $n$ exprimé en kilomètres, le coefficient est $0,06$.
 
-Un véhicule consomme 6 L de carburant pour parcourir 100 km.
+## Exercice 2 — Pourcentages (2/3)
 
-1. Quelle quantité consomme-t-il pour 250 km ?
-6*250/100=1500/100=15L
-2. Quelle distance peut-il parcourir avec 30 L ?
-30/6*100=500km
-3. Explique pourquoi cette situation est proportionnelle.
-p(n)=kn
-k=6
+1. $480\times35/100=168$ élèves — **1/1**
+2. Le pourcentage restant est $100\%-35\%=65\%$ — **1/1**
+3. Il fallait calculer le nombre d'élèves correspondant à 65 % :
 
-## Exercice 2 — Pourcentages (3 points)
+$480\times65/100=312$ élèves — **0/1**
 
-Dans un collège de 480 élèves, 35 % des élèves pratiquent un sport dans l'association sportive.
+Tu as trouvé 312, mais tu l'as placé comme réponse à la question 2, qui demandait un pourcentage. Puis tu as écrit « 312=65 % » à la question 3. Le calcul numérique était bon, mais l'association entre **nombre** et **pourcentage** était inversée.
 
-1. Calcule le nombre d'élèves concernés.
-480*35/100=(17500-700)/100=168
-2. Quel pourcentage des élèves ne pratique pas de sport dans cette association ?
-480-168=312
-3. Combien d'élèves cela représente-t-il ?
-312=65%
+## Exercice 3 — Réduction et augmentation (3/3)
 
-## Exercice 3 — Réduction et augmentation (3 points)
+1. $80\times15/100=12\ €$ — **1/1**
+2. $80-12=68\ €$ — **1/1**
+3. $68\times1,1=74,8\ €$ — **1/1**
 
-Un article coûte 80 €.
+## Exercice 4 — Frais fixes (2/3)
 
-1. Il bénéficie d'une réduction de 15 %. Quel est le montant de la réduction ?
-80*15/100
-1200/100=12
-2. Quel est son nouveau prix ?
-80-12=68
-3. Le prix augmente ensuite de 10 %. Quel est le nouveau prix ?
-68*1.1=68+6.8=74.8
+1. $P(n)=25+8n$ — **0/1**
 
-## Exercice 4 — Piège : proportionnalité ou non ? (3 points)
+Tu as écrit $P(n)=25+8x$. Le modèle est correct, mais la variable demandée est $n$. — **0/1**
 
-Une salle facture 25 € de frais fixes puis 8 € par personne.
+2. Non, car $P(n)$ n'est pas de la forme $kn$ : le terme fixe $25$ est présent. — **1/1**
+3. $25+8\times10=105\ €$ — **1/1**
 
-1. Écris le prix $P(n)$ pour $n$ personnes.
-P(n)=25+8x
-2. Le prix total est-il proportionnel au nombre de personnes ? Justifie précisément.
-non le prix ne correspond pas a kn
-3. Pour 10 personnes, quel est le prix total ?
-25+8*10=25+80=105€
+## Bilan pédagogique
 
-**Note :** à compléter après correction.
+### Note : 10/12 (83,3 %)
+
+La proportionnalité est **acquise** et la distinction avec un coût fixe est maîtrisée.
+
+Les pourcentages sont également maîtrisés sur le plan du calcul. Le seul problème est une confusion ponctuelle entre la grandeur demandée (pourcentage) et la valeur correspondante (nombre d'élèves).
+
+L'emploi de $x$ à la place de $n$ dans $P(n)$ est une incohérence de notation, pas une erreur mathématique de fond.
+
+**Statut : 🟢 Acquis.**
+
+**Prochaine étape :** diagnostic de géométrie 5e : angles, triangles, parallèles/perpendiculaires, constructions, aires et volumes.
