@@ -11,9 +11,14 @@ Pour chaque relation, réponds **oui** ou **non** à la question : « $y$ est-il
 Justifie en indiquant si la relation peut s'écrire sous la forme $y=kx$.
 
 1. $y=3x$
+oui
 2. $y=3x+2$
+non
+
 3. $y=7x$
+oui
 4. $y=7x-5$
+non
 
 ## Exercice 2 — Quelle grandeur est proportionnelle ? (3 points)
 
@@ -22,16 +27,26 @@ On considère :
 $P=4n+10$
 
 1. $P$ est-il proportionnel à $n$ ?
+non
 2. $P-10$ est-il proportionnel à $n$ ?
+no
 3. Si oui, quel est le coefficient de proportionnalité entre $P-10$ et $n$ ?
+oui
+$P=4n+10$
+donc p-10=4n=kn
+p-10=(4n+10)-10
 
 ## Exercice 3 — Cas concret (3 points)
 
 Une salle de cinéma facture **6 € par personne**, sans frais fixe.
 
 1. Écris le prix $P(n)$ pour $n$ personnes.
+p(n)=6n
 2. Le prix est-il proportionnel au nombre de personnes ?
+oui
 3. Le cinéma ajoute maintenant **10 € de frais fixes**, en plus des 6 € par personne. Écris la nouvelle expression $P(n)$ et indique si elle est proportionnelle à $n$.
+P(n)=6n+10
+p est non proportionnel a n
 
 **Consigne :** le point essentiel est de toujours préciser **quelles grandeurs** sont proportionnelles entre elles.
 
