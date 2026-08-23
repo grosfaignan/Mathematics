@@ -1,46 +1,82 @@
 # Consolidation 001 — Proportionnalité ou coût fixe ?
 
-**Objectif :** lever définitivement la confusion entre proportionnalité et expression avec terme fixe.
+**Note finale : 6/10 (60 %)**
 
-**Barème : 10 points**
+## Correction
 
-## Exercice 1 — Reconnaître une proportionnalité (4 points)
+### Exercice 1 — Reconnaître une proportionnalité (1/4)
 
-Pour chaque situation, indique si la grandeur $y$ est proportionnelle à $x$ et justifie.
+1. $y=4x$ → **Oui**. C'est exactement la forme $y=kx$, avec $k=4$. — **1/1**
 
-1. $y=4x$
-oui
-2. $y=4x+3$
-non mais proportionnelle a y-3
-3. $y=0,5x$
-non puisque ici x est forcément égale a 0
-4. $y=10(x-2)$
-oui 
+2. $y=4x+3$ → **Non**.
 
-## Exercice 2 — Tableau (3 points)
+La relation $y-3=4x$ est bien proportionnelle entre $x$ et $y-3$, mais la question porte sur la proportionnalité entre **$x$ et $y$**. Le terme fixe $3$ empêche donc $y$ d'être proportionnel à $x$. — **0/1**
 
-| $x$ | 1 | 2 | 5 | 10 |
-|---|---:|---:|---:|---:|
-| $y$ | 7 | 14 | 35 | 70 |
+3. $y=0,5x$ → **Oui**.
 
-1. Est-ce une situation de proportionnalité ?
-oui
-2. Quel est le coefficient de proportionnalité ?
-7
-3. Écris la relation entre $x$ et $y$.
-y=7x
+C'est directement de la forme $y=kx$, avec $k=0,5$. Il n'est pas nécessaire que $x$ soit égal à 0 : la relation est valable pour toutes les valeurs de $x$ du domaine considéré. — **0/1**
 
-## Exercice 3 — Coût fixe (3 points)
+4. $y=10(x-2)=10x-20$ → **Non**.
 
-Une location coûte 12 € de frais fixes, puis 5 € par heure.
+Le terme constant $-20$ empêche la relation d'être de la forme $y=kx$. En revanche, $y+20=10x$ est proportionnel à $x$. — **0/1**
 
-1. Écris le prix $P(h)$ pour $h$ heures.
-P(h)=12+5x
-2. Le prix est-il proportionnel au nombre d'heures ?
-non mais il est proportionnel a n-12
-3. La partie variable du prix est-elle proportionnelle au nombre d'heures ?
-oui
+### Exercice 2 — Tableau (3/3)
 
-**Consigne :** la justification compte. Ne te contente pas de répondre « oui » ou « non ».
+1. Oui, il s'agit d'une situation de proportionnalité : le quotient $y/x$ vaut toujours 7. — **1/1**
+2. Coefficient de proportionnalité : **7** — **1/1**
+3. Relation : $y=7x$ — **1/1**
 
-**Note :** à compléter après correction.
+### Exercice 3 — Coût fixe (2/3)
+
+1. Pour $h$ heures :
+
+$P(h)=12+5h$
+
+Tu as écrit $P(h)=12+5x$. L'idée est correcte mais la variable demandée est $h$. — **1/1**
+
+2. Non, $P(h)$ n'est pas proportionnel à $h$ :
+
+$P(h)=5h+12$
+
+Le terme fixe de 12 € empêche la proportionnalité.
+
+L'affirmation « proportionnel à $n-12$ » n'est pas correcte. La bonne relation est :
+
+$P(h)-12=5h$
+
+Donc **la partie variable** est proportionnelle à $h$. — **0/1**
+
+3. Oui : la partie variable vaut $5h$, donc elle est proportionnelle à $h$, avec coefficient 5. — **1/1**
+
+## Bilan pédagogique
+
+### Note : 6/10
+
+Cette consolidation montre que la distinction n'est **pas encore suffisamment stabilisée**. Le tableau de proportionnalité est parfaitement maîtrisé, mais tu fais encore une confusion systématique entre :
+
+- « $y$ est proportionnel à $x$ » ;
+- « une transformation de $y$ est proportionnelle à $x$ ».
+
+Par exemple :
+
+$y=4x+3$
+
+n'est pas une relation de proportionnalité entre $x$ et $y$, même si :
+
+$y-3=4x$.
+
+De même :
+
+$y=10(x-2)$
+
+n'est pas proportionnel à $x$, car :
+
+$y=10x-20$.
+
+### Point important pour la suite
+
+La notion de proportionnalité **simple** est acquise. La difficulté porte sur la reconnaissance de relations avec un terme constant ou une transformation de la grandeur étudiée.
+
+Avant le contrôle final de 6e, cette distinction devra être retravaillée avec un exercice plus progressif.
+
+**Moyenne des diagnostics : 9,19/10 (91,9 %).**
