@@ -9,9 +9,9 @@
 ## Exercice 1 — Nombres et fractions (4 points)
 
 1. Calcule : $-7+12-5$.
-2. Calcule et simplifie : $\frac34-\frac56$.
-3. Calcule : $-\frac23+\frac56$.
-4. Compare : $-\frac34$ … $-\frac23$.
+2. Calcule et simplifie : $\frac{3}{4}-\frac{5}{6}$.
+3. Calcule : $-\frac{2}{3}+\frac{5}{6}$.
+4. Compare : $-\frac{3}{4}$ … $-\frac{2}{3}$.
 
 ## Exercice 2 — Calcul littéral et équations (4 points)
 
