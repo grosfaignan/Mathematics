@@ -10,7 +10,9 @@ Si deux côtés d'un triangle sont de même longueur, alors les angles opposés 
 
 Par exemple :
 
-$$AB=AC \Rightarrow \widehat{ABC}=\widehat{BCA}$$
+$$$
+AB=AC \Rightarrow \widehat{ABC}=\widehat{BCA}
+$$$
 
 Le triangle est alors **isocèle en A**.
 
